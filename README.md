@@ -4,17 +4,29 @@
 
 In a world where we co-live with AI, we need an easier and simpler way to spawn personas and avatars that reflect the context of the digital realms we want to be part of.
 
+A portable context layer that’s tool-agnostic, human-readable, version-controllable, and parsable by every AI tool that accepts system prompts or context files.
+
 Tools such as ChatGPT, Claude, Gemini, Grok, and others work better if they know and have a better memory of you. However, we still do not want to reveal everything either.
 
-They are getting better, and better ones will come along; replace your current tool. This helps you separate and maintain memory and context of who you are across tools.
+They are getting better, and better ones will come along; replace your current tool. This helps you separate and maintain the memory and context of who you are across tools.
 
 This is an attempt to maintain data and serve as your Digital Doppelgänger(s) in Plain-Text (Markdown). Plain enough for a human to read, and format common for AI to interpret and consume in their own ways.
+
+## Where
+
+These folders and files can be anywhere where your tools can have access to, such as;
+
+```
+- ./config/bodd
+- ~/Dropbox/bodd
+- ~/<ComputerUsername>/bodd
+```
 
 ## USAGE
 
 - You can copy-paste the details into your choice of tools.
-- Or you can point the tools such as ChatGPT, Claude Cowork, Gemini, Grok to pick up your avatar(s), giving context to your work.
-- 
+- Or you can point the tools such as ChatGPT, Claude Cowork, Gemini, and Grok to pick up your avatar(s), giving context to your work.
+- Treat these contexts as your infrastructure to be the consultant, founder, subject-matter expert, influencer, gamer, etc.
 
 ## Warnings
 
