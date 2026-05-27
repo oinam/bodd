@@ -2,9 +2,12 @@
 
 > Starter Template for your Digital Doppelgänger.
 
+- Template: https://github.com/oinam/bodd
+- Article: https://brajeshwar.com/2026/bodd/
+
 In a world where we co-live with AI, we need an easier and simpler way to spawn personas and avatars that reflect the context of the digital realms we want to be part of.
 
-A portable context layer that’s tool-agnostic, human-readable, version-controllable, and parsable by every AI tool that accepts system prompts or context files.
+A portable context layer that is tool-agnostic, human-readable, version-controllable, and parse-able by every AI tool that accepts system prompts or context files.
 
 Tools such as ChatGPT, Claude, Gemini, Grok, and others work better if they know and have a better memory of you. However, we still do not want to reveal everything either.
 
@@ -25,7 +28,7 @@ These folders and files can be anywhere where your tools can have access to, suc
 ## USAGE
 
 - You can copy-paste the details into your choice of tools.
-- Or you can point the tools such as ChatGPT, Claude Cowork, Gemini, and Grok to pick up your avatar(s), giving context to your work.
+- Or you can point the tools such as ChatGPT, Claude CoWork, Gemini, and Grok to pick up your avatar(s), giving context to your work.
 - Treat these contexts as your infrastructure to be the consultant, founder, subject-matter expert, influencer, gamer, etc.
 
 ## Warnings
